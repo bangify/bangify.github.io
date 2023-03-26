@@ -1,0 +1,172 @@
+* {
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body {
+  text-align: center;
+  justify-content: start;
+  padding: 0.75rem;
+  max-width: 37rem;
+  padding-top: calc(50vh - 7rem);
+}
+html {
+  color-scheme: dark light;
+  background: Canvas linear-gradient(#e9345f22, #e9345f22);
+  font-family: Roboto, -apple-system, "Noto Sans", system-ui, sans-serif;
+}
+h1 {
+  font-size: 12vw;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+h1,
+a {
+  color: #e9345f;
+}
+#searchbar {
+  width: 100%;
+  height: 2.5rem;
+  position: relative;
+}
+input[type="search"] {
+  background: #fef5f7;
+  color: #111;
+  font: inherit;
+  border: none;
+  appearance: none;
+  padding: 0 2.5rem 0 1rem;
+  width: 100%;
+  height: 100%;
+  border-radius: 2.5rem;
+  overflow: hidden;
+  accent-color: #e9345f;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+.matter-button-text {
+  display: inline-block;
+  margin: 0;
+  outline: none;
+}
+.matter-button-text::-moz-focus-inner {
+  border: none;
+}
+.matter-button-text::before,
+.matter-button-text::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 0;
+}
+.matter-button-text::before {
+  background-color: #e9345f;
+  transition: opacity 0.2s;
+}
+.matter-button-text::after {
+  background: radial-gradient(circle at center, #e9345f 1%, transparent 1%)
+    center/10000% 10000% no-repeat;
+  transition: opacity 1s, background-size 0.5s;
+}
+.matter-button-text:hover::before {
+  opacity: 0.04;
+}
+.matter-button-text:focus::before {
+  opacity: 0.12;
+}
+.matter-button-text:hover:focus::before {
+  opacity: 0.16;
+}
+.matter-button-text:active::after {
+  opacity: 0.16;
+  background-size: 100% 100%;
+  transition: background-size 0s;
+}
+.matter-button-text:disabled {
+  color: rgba(var(--matter-onsurface-rgb, 0, 0, 0), 0.38);
+  background-color: transparent;
+  cursor: initial;
+}
+.matter-button-text:disabled::before,
+.matter-button-text:disabled::after {
+  opacity: 0;
+}
+.matter-button-text {
+  color: transparent;
+  font-size: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  width: 2.5rem;
+  border-radius: 50%;
+  clip-path: inset(0.125rem round 50%);
+  cursor: pointer;
+  background-image: url("https://cdn.glitch.global/7f855456-5589-4db8-a2d7-6ad1038776a2/search.ico?v=1654201629923");
+  background-size: 24px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+}
+p,
+summary {
+  font-size: 0.95em;
+  opacity: 0.6;
+}
+details {
+  margin-top: 1rem;
+}
+#defaultButton {
+  min-width: 4.5em;
+}
+summary {
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+  width: min-content;
+  margin: 0 auto;
+  text-indent: 0.35rem;
+}
+#default {
+  width: 6rem;
+}
+@media (min-width: 33rem) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+@media (max-width: 16rem) {
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  body {
+    padding: 0.5rem;
+    padding-top: 1rem;
+  }
+  #searchbar {
+    height: 1.75rem;
+  }
+  .matter-button-text {
+    width: 1.75rem;
+  }
+  details {
+    font-size: 0.9rem;
+  }
+}

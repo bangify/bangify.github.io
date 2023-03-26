@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Bangify</ShortName>
+  <Description>Adds !bangs to almost every search engine out there.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://cdn.glitch.global/7f855456-5589-4db8-a2d7-6ad1038776a2/search.ico?v=1654201629923</Image>
+  <Url type="text/html" template="https://easrng.github.io/bangify/go/?q={searchTerms}"/>
+  <Url type="application/x-suggestions+json" template="https://duckduckgo.com/ac/?q={searchTerms}&amp;type=list"/>
+  <moz:SearchForm>https://easrng.github.io/bangify/</moz:SearchForm>
+</OpenSearchDescription>

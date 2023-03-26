@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bangify</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      title="Bangify"
+      href="./search.xml"
+    />
+    <link
+      rel="shortcut icon"
+      href="https://cdn.glitch.global/7f855456-5589-4db8-a2d7-6ad1038776a2/search.ico?v=1654201629923"
+    />
+  </head>
+  <body>
+    <h1>Bangify</h1>
+    <form id="searchbar" action="./go/">
+      <input type="search" placeholder="Type your search..." name="q" />
+      <button type="submit" class="matter-button-text">Search</button>
+    </form>
+    <details>
+      <summary title="About + Options"></summary>
+      <p>
+        This "search engine" just redirects to your search engine of choice,
+        unless your search includes
+        <a href="https://duckduckgo.com/bangs">!bangs</a> in which case it
+        redirects directly without sending your search query anywhere.
+        Suggestions (if you have them enabled) always come from DuckDuckGo.
+      </p>
+      <form id="defaultForm">
+        <label>
+          Default search engine:
+          <input
+            type="text"
+            value="!ddg"
+            title="!bang format"
+            id="default"
+            list="bangList"
+            placeholder="!ddg"
+            required
+            autocomplete="off"
+          />
+          <datalist id="bangList"></datalist>
+          <button id="defaultButton">Save</button>
+        </label>
+      </form>
+    </details>
+    <script
+      src="https://cdn.jsdelivr.net/npm/localforage@1.10.0/dist/localforage.min.js"
+      integrity="sha256-zBaNlfuSfUaxBDcmz+E5mOCJAv9j8kMw4rsikBCe0UU="
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      (async () => {
+        if ("serviceWorker" in navigator) {
+          try {
+            const registration = await navigator.serviceWorker.register(
+              "./sw.js",
+              {
+                scope: "./",
+              }
+            );
+            if (registration.installing) {
+              console.log("Service worker installing");
+            } else if (registration.waiting) {
+              console.log("Service worker installed");
+            } else if (registration.active) {
+              console.log("Service worker active");
+            }
+          } catch (error) {
+            console.error(`Registration failed with ${error}`);
+          }
+        }
+      })();
+      (async () => {
+        function escapeRegExp(string) {
+          return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // $& means the whole matched string
+        }
+        const defaultChooser = document.querySelector("#default");
+        const defaultForm = document.querySelector("#defaultForm");
+        const bangList = document.querySelector("#bangList");
+        const defaultButton = document.querySelector("#defaultButton");
+        defaultForm.addEventListener("submit", async (e) => {
+          e.preventDefault();
+          defaultButton.textContent = "Saving";
+          try {
+            await localforage.setItem("default", defaultChooser.value.slice(1));
+            defaultButton.textContent = "Saved!";
+          } catch (e) {
+            console.error(e);
+            defaultButton.textContent = "Error";
+          }
+          setTimeout(() => (defaultButton.textContent = "Save"), 1500);
+        });
+        defaultChooser.disabled = true;
+        const normalizeBang = (bang) => bang.toLowerCase().normalize();
+        const bangs = await (await fetch("./bangs.json")).json();
+        for (let bang of bangs) bang.t = normalizeBang(bang.t);
+        bangList.append(...bangs.map((e) => new Option("!" + e.t)));
+        defaultChooser.pattern =
+          "!(" + bangs.map((e) => escapeRegExp(e.t)).join("|") + ")";
+        defaultChooser.value =
+          "!" + ((await localforage.getItem("default")) || "ddg");
+        defaultChooser.disabled = false;
+      })();
+    </script>
+  </body>
+</html>
