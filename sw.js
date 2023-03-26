@@ -1,7 +1,7 @@
 /* global ServiceWorkerGlobalScope localforage */
 let bangs = null;
 const normalizeBang = (bang) => bang.toLowerCase().normalize();
-const bangsLoaded = fetch("https://easrng.github.io/bangify/bangs.json").then(async (e) => {
+const bangsLoaded = fetch("/bangify/bangs.json").then(async (e) => {
   bangs = await e.json();
   for (let bang of bangs) bang.t = normalizeBang(bang.t);
 });
@@ -17,7 +17,7 @@ if (
   });
   self.addEventListener("fetch", (event) => {
     const u = new URL(event.request.url);
-    if (u.hostname == location.hostname && u.pathname.startsWith("/go")) {
+    if (u.hostname == location.hostname && u.pathname.startsWith("/bangify/go")) {
       let q = u.searchParams.get("q");
       event.respondWith(handle(q));
     } else return event.respondWith(fetch(event.request));
