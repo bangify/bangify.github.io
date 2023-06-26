@@ -22837,7 +22837,7 @@
   "giti": [
     "https://www.google.fr/maps/dir/{{{s}}}/{{{s}}}",
     "https://www.google.fr/maps/dir/",
-    "www.google.fr"
+    "maps.google.fr"
   ],
   "gitlab": [
     "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}&group_id=&repository_ref=",
@@ -23117,37 +23117,37 @@
   "gmat": [
     "https://www.google.at/maps/search/{{{s}}}",
     "Google Maps Austria",
-    "www.google.at"
+    "maps.google.at"
   ],
   "gmau": [
     "https://www.google.com.au/maps/search/{{{s}}} ",
     "Google Maps Australia",
-    "www.google.com.au"
+    "maps.google.com.au"
   ],
   "gmca": [
     "https://www.google.ca/maps/?q={{{s}}}",
     "Google Maps Canada",
-    "www.google.ca"
+    "maps.google.ca"
   ],
   "gmcl": [
     "https://www.google.cl/maps/place/{{{s}}}",
     "Google Maps Chile",
-    "www.google.cl"
+    "maps.google.cl"
   ],
   "gmde": [
     "https://www.google.de/maps/place/{{{s}}}",
     "Google Maps DE",
-    "www.google.de"
+    "maps.google.de"
   ],
   "gmd": [
     "https://www.google.com/maps/dir/{{{s}}}",
     "Google Maps Directions With Two Addresses",
-    "www.google.com"
+    "maps.google.com"
   ],
   "gmdir": [
     "https://www.google.com/maps/dir//{{{s}}}",
     "Google Maps Directions",
-    "www.google.com"
+    "maps.google.com"
   ],
   "gme": [
     "https://www.gme.cz/vysledky-vyhledavani?search_keyword= {{{s}}}",
@@ -23157,7 +23157,7 @@
   "gmfr": [
     "https://www.google.fr/maps/search/{{{s}}}",
     "maps.google.com",
-    "www.google.fr"
+    "maps.google.fr"
   ],
   "gmgf": [
     "https://www.greenmangaming.com/search/{{{s}}}",
@@ -23172,22 +23172,22 @@
   "gm": [
     "https://google.com/maps/place/{{{s}}}",
     "Google Maps",
-    "google.com"
+    "maps.google.com"
   ],
   "gmil": [
     "https://www.google.co.il/maps/search/{{{s}}}/?hl=iw",
     "Google Maps Israel",
-    "www.google.co.il"
+    "maps.google.co.il"
   ],
   "gmit": [
     "https://www.google.it/maps/place/{{{s}}}",
     "Google Maps",
-    "www.google.it"
+    "maps.google.it"
   ],
   "gmjp": [
     "https://www.google.co.jp/maps/place/{{{s}}}",
     "Google Maps JP",
-    "www.google.co.jp"
+    "maps.google.co.jp"
   ],
   "gml": [
     "https://www.gml.se/bocker/sok?q={{{s}}}",
@@ -23197,7 +23197,7 @@
   "gmnl": [
     "https://www.google.de/maps/place/{{{s}}}",
     "Google Maps NL",
-    "www.google.de"
+    "maps.google.de"
   ],
   "gmod": [
     "https://wiki.garrysmod.com/page/Special:Search?search={{{s}}}&fulltext=Search",
@@ -23222,7 +23222,7 @@
   "gmsi": [
     "https://www.google.si/maps/search/{{{s}}}/",
     "Google Maps SI",
-    "www.google.si"
+    "maps.google.si"
   ],
   "gmtw": [
     "https://www.google.com.tw/maps?hl=zh-TW&q={{{s}}}",
@@ -23232,7 +23232,7 @@
   "gmuk": [
     "https://www.google.co.uk/maps/place/{{{s}}} ",
     "Google Maps",
-    "www.google.co.uk"
+    "maps.google.co.uk"
   ],
   "gmusic": [
     "https://music.google.com/music/listen?#{{{s}}}_sr",
@@ -24312,7 +24312,7 @@
   "groute": [
     "https://www.google.de/maps/dir/{{{s}}}",
     "Google Maps Route",
-    "www.google.de"
+    "maps.google.de"
   ],
   "grouvee": [
     "https://www.grouvee.com/search/?q={{{s}}}",
@@ -35607,7 +35607,7 @@
   "mapsde": [
     "https://www.google.de/maps/place/{{{s}}}",
     "Google Maps DE",
-    "www.google.de"
+    "maps.google.de"
   ],
   "mapsfr": [
     "https://maps.google.com/maps?hl=fr&q={{{s}}}",
@@ -35622,7 +35622,7 @@
   "mapsr": [
     "https://www.google.com/maps/dir/{{{s}}}",
     "Google Maps Directions",
-    "www.google.com"
+    "maps.google.com"
   ],
   "mapsuk": [
     "https://maps.google.co.uk/maps?q={{{s}}}",
@@ -37482,7 +37482,7 @@
   "ml": [
     "https://google.com/maps/search/{{{s}}}?force=canvas",
     "Google Maps Lite",
-    "google.com"
+    "maps.google.com"
   ],
   "mlibreco": [
     "https://listado.mercadolibre.com.co/{{{s}}}",
@@ -38722,12 +38722,12 @@
   "muke": [
     "https://www.google.co.uk/maps/?hl=en&q={{{s}}}",
     "Google Maps UK (English)",
-    "www.google.co.uk"
+    "maps.google.co.uk"
   ],
   "muk": [
     "https://www.google.co.uk/maps/?hl=en&q={{{s}}}",
     "Google Maps UK (en_US)",
-    "www.google.co.uk"
+    "maps.google.co.uk"
   ],
   "multcolib": [
     "https://multcolib.org/search/site/{{{s}}}",
@@ -49057,7 +49057,7 @@
   "route": [
     "https://www.google.de/maps/dir/{{{s}}}",
     "Google Maps Route",
-    "www.google.de"
+    "maps.google.de"
   ],
   "router": [
     "https://www.router24.info/uebersicht?s={{{s}}}",
@@ -66682,7 +66682,7 @@
   "мапс": [
     "https://www.google.bg/maps/search/{{{s}}}/",
     "Google Maps BG",
-    "www.google.bg"
+    "maps.google.bg"
   ],
   "нпсд": [
     "https://npsd.party/?s={{{s}}}",
