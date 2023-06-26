@@ -51,7 +51,7 @@ async function handle(query) {
     bang = "!" + ((await localforage.getItem("default")) || "ddg");
   }
   bang = normalizeBang(bang.slice(1));
-  const engine = bangs.find((e) => e.t === bang);
+  const engine = bangs[bang];
   if (!engine) {
     return new Response("idk what !" + bang + " is, sorry :(", {
       headers: { "content-type": "text/plain" },
@@ -61,8 +61,8 @@ async function handle(query) {
     status: 302,
     headers: {
       location: bangless
-        ? engine.u.replace(/{{{s}}}/g, encodeURIComponent(bangless))
-        : "https://" + engine.d,
+        ? engine[0].replace(/{{{s}}}/g, encodeURIComponent(bangless))
+        : (engine[2].includes(".onion") ? "http" : "https") + "://" + engine[2],
     },
   });
 }
