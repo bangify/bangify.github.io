@@ -641,9 +641,9 @@
       "931women.com"
     ],
     "95g": [
-      "https://cse.google.com/cse?cx=008464549922976904202:uxmexxzm3k4&q={{{s}}}",
+      "https://9to5google.com/?s={{{s}}}",
       "9to5google",
-      "cse.google.com"
+      "9to5google.com"
     ],
     "95google": [
       "https://9to5google.com/?s={{{s}}}",
@@ -2613,7 +2613,7 @@
       "music.amazon.com"
     ],
     "amusing": [
-      "https://www.google.com/cse?cx=partner-pub-4049870445958322%3Apxmbpw-atgu&ie=ISO-8859-1&q={{{s}}}",
+      "https://cse.google.com/cse?cx=partner-pub-4049870445958322%3Apxmbpw-atgu&ie=ISO-8859-1&q={{{s}}}",
       "Amusing Planet",
       "www.google.com"
     ],
@@ -6990,9 +6990,9 @@
       "bindingofisaacrebirth.gamepedia.com"
     ],
     "boingboing": [
-      "https://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&sa=GO&siteurl=www.boingboing.net/",
+      "https://boingboing.net/search?q={{{s}}}",
       "boingboing",
-      "www.google.com"
+      "boingboing.net"
     ],
     "bokmålsordboka": [
       "https://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal",
@@ -8238,9 +8238,9 @@
       "dictionary.cambridge.org"
     ],
     "calendar": [
-      "https://www.google.com/calendar/b/0/render?q={{{s}}}",
+      "https://calendar.google.com/calendar/u/0/r/search?q={{{s}}}&pli=1",
       "Google Calendar",
-      "www.google.com"
+      "calendar.google.com"
     ],
     "callook": [
       "https://callook.info/{{{s}}}",
@@ -13026,9 +13026,9 @@
       "forums.debian.net"
     ],
     "debianfr": [
-      "https://www.google.com/cse?cx=007724375775369850404%3Ajwpah_hbbjk&ie=UTF-8&q={{{s}}}&sa=Rechercher&siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D007724375775369850404%3Ajwpah_hbbjk",
+      "https://cse.google.com/cse?cx=007724375775369850404%3Ajwpah_hbbjk&ie=UTF-8&q={{{s}}}&sa=Rechercher",
       "Debian Pages (French)",
-      "www.google.com"
+      "wiki.debian.org/fr/FrontPage"
     ],
     "debianizzati": [
       "https://forum.debianizzati.org/search.php?keywords={{{s}}}",
@@ -17752,9 +17752,9 @@
       "eq2.wikia.com"
     ],
     "eqd": [
-      "https://www.google.com/cse?cx=partner-pub-6285692791338183%3A7732117278&ie=UTF-8&q={{{s}}}",
+      "https://cse.google.com/cse?cx=partner-pub-6285692791338183%3A7732117278&ie=UTF-8&q={{{s}}}",
       "Equestria Daily",
-      "www.google.com"
+      "equestriadaily.com "
     ],
     "eqr": [
       "https://eqresource.com/search.php?cx=partner-pub-8686271290388928%3Atjkxdymxk9a&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=Search",
@@ -18674,20 +18674,10 @@
       "Facebook",
       "www.facebook.com"
     ],
-    "facephoto": [
-      "https://www.google.com/search?q=%22{{{s}}}%22&tbm=isch&tbs=ic:color,isz:lt,itp:face,isg:to&filter=0&safe=off&pws=0&tbs=rl:0",
-      "Google",
-      "www.google.com"
-    ],
     "facepunch": [
       "https://forum.facepunch.com/search/?q={{{s}}}",
       "Facepunch Forums",
       "forum.facepunch.com"
-    ],
-    "faces": [
-      "https://www.google.com/search?tbm=isch&tbs=itp:face&q={{{s}}}",
-      "Google Images (Faces)",
-      "www.google.com"
     ],
     "factbites": [
       "https://www.factbites.com/topics/{{{s}}}",
@@ -19194,7 +19184,7 @@
     "fdo": [
       "https://www.google.com/search?sitesearch=http%3A%2F%2Fwww.freedesktop.org%2Fwiki%2F&q={{{s}}}&gws_rd=ssl",
       "freedesktop.org",
-      "www.google.com"
+      "freedesktop.org"
     ],
     "fdrlst": [
       "https://thefederalist.com/?s={{{s}}}",
@@ -21287,11 +21277,6 @@
       "Gab",
       "gab.ai"
     ],
-    "gaccess": [
-      "https://www.google.com/cse?ie=UTF-8&cx=000183394137052953072%3Azc1orsc6mbq&q={{{s}}}t&btnG=Search",
-      "Google Accessible",
-      "www.google.com"
-    ],
     "gadgetflow": [
       "https://thegadgetflow.com/?s={{{s}}}&submit=Search",
       "The Gadget Flow",
@@ -21688,20 +21673,10 @@
       "Global books in print",
       "www.booksinprint.com"
     ],
-    "gbk": [
-      "https://www.google.com/bookmarks/l#!q={{{s}}}",
-      "Google Bookmarks",
-      "www.google.com"
-    ],
     "gblast": [
       "https://gigablast.com/search?q={{{s}}} ",
       "Gigablast ",
       "gigablast.com"
-    ],
-    "gbm": [
-      "https://www.google.com/bookmarks/find?q={{{s}}}",
-      "Google Bookmarks",
-      "www.google.com"
     ],
     "gbn": [
       "https://gamebanana.com/search?query={{{s}}}",
@@ -23212,11 +23187,6 @@
       "Google Maps Canada",
       "www.google.ca"
     ],
-    "gmc": [
-      "https://www.google.com/maps?q={{{s}}}&output=classic",
-      "Google Maps Classic",
-      "www.google.com"
-    ],
     "gmcl": [
       "https://www.google.cl/maps/place/{{{s}}}",
       "Google Maps Chile",
@@ -23286,11 +23256,6 @@
       "https://www.google.de/maps/place/{{{s}}}",
       "Google Maps NL",
       "www.google.de"
-    ],
-    "gmob": [
-      "https://www.google.com/gwt/x?u={{{s}}}",
-      "Google (mobile site viewer)",
-      "www.google.com"
     ],
     "gmod": [
       "https://wiki.garrysmod.com/page/Special:Search?search={{{s}}}&fulltext=Search",
@@ -23377,11 +23342,6 @@
       "Google No Country Redirect",
       "www.google.com"
     ],
-    "gnda": [
-      "https://www.google.com/?gws_rd=ssl#q={{{s}}}&tbs=ida:1&gl=us",
-      "Google (In Depth Articles)",
-      "www.google.com"
-    ],
     "gnde": [
       "https://news.google.com/news/search/section/q/{{{s}}}?hl=de&ned=de",
       "Google News Germany",
@@ -23421,11 +23381,6 @@
       "https://globalnewlightofmyanmar.com/?s={{{s}}}",
       "The Global New Light of Myanmar",
       "globalnewlightofmyanmar.com"
-    ],
-    "gnm": [
-      "https://www.google.com/m/search?site=news&q={{{s}}}",
-      "Google News (mobile)",
-      "www.google.com"
     ],
     "gnnl": [
       "https://www.google.com/search?hl=nl&gl=nl&tbm=nws&q={{{s}}}",
@@ -24137,11 +24092,6 @@
       "Google Plus",
       "plus.google.com"
     ],
-    "gplusp": [
-      "https://www.google.com/search?tbs=prfl:e&q={{{s}}}",
-      "Google Plus",
-      "www.google.com"
-    ],
     "gpm": [
       "https://play.google.com/music/listen#/sr/{{{s}}}",
       "Google Play Music",
@@ -24666,52 +24616,52 @@
       "www.ultimate-guitar.com"
     ],
     "gtaf": [
-      "https://translate.google.com/#auto/af/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=af&text={{{s}}}&op=translate",
       "Detect language to Afrikaans",
       "translate.google.com"
     ],
     "gt-afrikaans": [
-      "https://translate.google.com/#auto/af/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=af&text={{{s}}}&op=translate",
       "Detect language to Afrikaans",
       "translate.google.com"
     ],
     "gtafrikaans": [
-      "https://translate.google.com/#auto/af/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=af&text={{{s}}}&op=translate",
       "Detect language to Afrikaans",
       "translate.google.com"
     ],
     "gt-albanian": [
-      "https://translate.google.com/#auto/sq/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sq&text={{{s}}}&op=translate",
       "Detect language to Albanian",
       "translate.google.com"
     ],
     "gtalbanian": [
-      "https://translate.google.com/#auto/sq/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sq&text={{{s}}}&op=translate",
       "Detect language to Albanian",
       "translate.google.com"
     ],
     "gt-arabic": [
-      "https://translate.google.com/#auto/ar/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ar&text={{{s}}}&op=translate",
       "Detect language to Arabic",
       "translate.google.com"
     ],
     "gtarabic": [
-      "https://translate.google.com/#auto/ar/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ar&text={{{s}}}&op=translate",
       "Detect language to Arabic",
       "translate.google.com"
     ],
     "gtar": [
-      "https://translate.google.com/#auto/ar/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ar&text={{{s}}}&op=translate",
       "Detect language to Arabic",
       "translate.google.com"
     ],
     "gt-armenian": [
-      "https://translate.google.com/#auto/hy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hy&text={{{s}}}&op=translate",
       "Detect language to Armenian",
       "translate.google.com"
     ],
     "gtarmenian": [
-      "https://translate.google.com/#auto/hy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hy&text={{{s}}}&op=translate",
       "Detect language to Armenian",
       "translate.google.com"
     ],
@@ -24726,187 +24676,187 @@
       "gta.fandom.com"
     ],
     "gtaz": [
-      "https://translate.google.com/#auto/az/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=az&text={{{s}}}&op=translate",
       "Detect language to Azerbaijani",
       "translate.google.com"
     ],
     "gt-azerbaijani": [
-      "https://translate.google.com/#auto/az/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=az&text={{{s}}}&op=translate",
       "Detect language to Azerbaijani",
       "translate.google.com"
     ],
     "gtazerbaijani": [
-      "https://translate.google.com/#auto/az/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=az&text={{{s}}}&op=translate",
       "Detect language to Azerbaijani",
       "translate.google.com"
     ],
     "gt-basque": [
-      "https://translate.google.com/#auto/eu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eu&text={{{s}}}&op=translate",
       "Detect language to Basque",
       "translate.google.com"
     ],
     "gtbasque": [
-      "https://translate.google.com/#auto/eu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eu&text={{{s}}}&op=translate",
       "Detect language to Basque",
       "translate.google.com"
     ],
     "gtbe": [
-      "https://translate.google.com/#auto/be/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=be&text={{{s}}}&op=translate",
       "Detect language to Belarusian",
       "translate.google.com"
     ],
     "gt-belarusian": [
-      "https://translate.google.com/#auto/be/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=be&text={{{s}}}&op=translate",
       "Detect language to Belarusian",
       "translate.google.com"
     ],
     "gtbelarusian": [
-      "https://translate.google.com/#auto/be/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=be&text={{{s}}}&op=translate",
       "Detect language to Belarusian",
       "translate.google.com"
     ],
     "gt-bengali": [
-      "https://translate.google.com/#auto/bn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bn&text={{{s}}}&op=translate",
       "Detect language to Bengali",
       "translate.google.com"
     ],
     "gtbengali": [
-      "https://translate.google.com/#auto/bn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bn&text={{{s}}}&op=translate",
       "Detect language to Bengali",
       "translate.google.com"
     ],
     "gtbg": [
-      "https://translate.google.com/#auto/bg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bg&text={{{s}}}&op=translate",
       "Detect language to Bulgarian",
       "translate.google.com"
     ],
     "gtbn": [
-      "https://translate.google.com/#auto/bn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bn&text={{{s}}}&op=translate",
       "Detect language to Bengali",
       "translate.google.com"
     ],
     "gt-bosnian": [
-      "https://translate.google.com/#auto/bs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bs&text={{{s}}}&op=translate",
       "Detect language to Bosnian",
       "translate.google.com"
     ],
     "gtbosnian": [
-      "https://translate.google.com/#auto/bs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bs&text={{{s}}}&op=translate",
       "Detect language to Bosnian",
       "translate.google.com"
     ],
     "gtbs": [
-      "https://translate.google.com/#auto/bs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bs&text={{{s}}}&op=translate",
       "Detect language to Bosnian",
       "translate.google.com"
     ],
     "gt-bulgarian": [
-      "https://translate.google.com/#auto/bg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bg&text={{{s}}}&op=translate",
       "Detect language to Bulgarian",
       "translate.google.com"
     ],
     "gtbulgarian": [
-      "https://translate.google.com/#auto/bg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=bg&text={{{s}}}&op=translate",
       "Detect language to Bulgarian",
       "translate.google.com"
     ],
     "gtca": [
-      "https://translate.google.com/#auto/ca/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ca&text={{{s}}}&op=translate",
       "Detect language to Catalan",
       "translate.google.com"
     ],
     "gt-catalan": [
-      "https://translate.google.com/#auto/ca/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ca&text={{{s}}}&op=translate",
       "Detect language to Catalan",
       "translate.google.com"
     ],
     "gtcatalan": [
-      "https://translate.google.com/#auto/ca/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ca&text={{{s}}}&op=translate",
       "Detect language to Catalan",
       "translate.google.com"
     ],
     "gtceb": [
-      "https://translate.google.com/#auto/ceb/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ceb&text={{{s}}}&op=translate",
       "Detect language to Cebuano",
       "translate.google.com"
     ],
     "gt-cebuano": [
-      "https://translate.google.com/#auto/ceb/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ceb&text={{{s}}}&op=translate",
       "Detect language to Cebuano",
       "translate.google.com"
     ],
     "gtcebuano": [
-      "https://translate.google.com/#auto/ceb/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ceb&text={{{s}}}&op=translate",
       "Detect language to Cebuano",
       "translate.google.com"
     ],
     "gt-chichewa": [
-      "https://translate.google.com/#auto/ny/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ny&text={{{s}}}&op=translate",
       "Detect language to Chichewa",
       "translate.google.com"
     ],
     "gtchichewa": [
-      "https://translate.google.com/#auto/ny/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ny&text={{{s}}}&op=translate",
       "Detect language to Chichewa",
       "translate.google.com"
     ],
     "gt-chinese": [
-      "https://translate.google.com/#auto/zh-CN/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zh-CN&text={{{s}}}&op=translate",
       "Detect language to Chinese",
       "translate.google.com"
     ],
     "gtchinese": [
-      "https://translate.google.com/#auto/zh-CN/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zh-CN&text={{{s}}}&op=translate",
       "Detect language to Chinese",
       "translate.google.com"
     ],
     "gt-croatian": [
-      "https://translate.google.com/#auto/hr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hr&text={{{s}}}&op=translate",
       "Detect language to Croatian",
       "translate.google.com"
     ],
     "gtcroatian": [
-      "https://translate.google.com/#auto/hr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hr&text={{{s}}}&op=translate",
       "Detect language to Croatian",
       "translate.google.com"
     ],
     "gtcs": [
-      "https://translate.google.com/#auto/cs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cs&text={{{s}}}&op=translate",
       "Detect language to Czech",
       "translate.google.com"
     ],
     "gtcy": [
-      "https://translate.google.com/#auto/cy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cy&text={{{s}}}&op=translate",
       "Detect language to Welsh",
       "translate.google.com"
     ],
     "gtcz": [
-      "https://translate.google.com/#auto/cs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cs&text={{{s}}}&op=translate",
       "Detect language to Czech",
       "translate.google.com"
     ],
     "gt-czech": [
-      "https://translate.google.com/#auto/cs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cs&text={{{s}}}&op=translate",
       "Detect language to Czech",
       "translate.google.com"
     ],
     "gtczech": [
-      "https://translate.google.com/#auto/cs/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cs&text={{{s}}}&op=translate",
       "Detect language to Czech",
       "translate.google.com"
     ],
     "gtda": [
-      "https://translate.google.com/#auto/da/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=da&text={{{s}}}&op=translate",
       "Detect language to Danish",
       "translate.google.com"
     ],
     "gt-danish": [
-      "https://translate.google.com/#auto/da/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=da&text={{{s}}}&op=translate",
       "Detect language to Danish",
       "translate.google.com"
     ],
     "gtdanish": [
-      "https://translate.google.com/#auto/da/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=da&text={{{s}}}&op=translate",
       "Detect language to Danish",
       "translate.google.com"
     ],
@@ -24916,27 +24866,27 @@
       "www.grimtools.com"
     ],
     "gtde": [
-      "https://translate.google.com/#auto/de/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=de&text={{{s}}}&op=translate",
       "Detect language to German",
       "translate.google.com"
     ],
     "gt-dutch": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Detect language to Dutch",
       "translate.google.com"
     ],
     "gtdutch": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Detect language to Dutch",
       "translate.google.com"
     ],
     "gtel": [
-      "https://translate.google.com/#auto/el/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=el&text={{{s}}}&op=translate",
       "Detect language to Greek",
       "translate.google.com"
     ],
     "gten": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Detect language to English",
       "translate.google.com"
     ],
@@ -24951,12 +24901,12 @@
       "translate.google.com"
     ],
     "gt-english": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Detect language to English",
       "translate.google.com"
     ],
     "gtenglish": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Detect language to English",
       "translate.google.com"
     ],
@@ -24966,47 +24916,47 @@
       "translate.google.com"
     ],
     "gteo": [
-      "https://translate.google.com/#auto/eo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eo&text={{{s}}}&op=translate",
       "Detect language to Esperanto",
       "translate.google.com"
     ],
     "gtes": [
-      "https://translate.google.com/#auto/es/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=es&text={{{s}}}&op=translate",
       "Detect language to Spanish",
       "translate.google.com"
     ],
     "gt-esperanto": [
-      "https://translate.google.com/#auto/eo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eo&text={{{s}}}&op=translate",
       "Detect language to Esperanto",
       "translate.google.com"
     ],
     "gtesperanto": [
-      "https://translate.google.com/#auto/eo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eo&text={{{s}}}&op=translate",
       "Detect language to Esperanto",
       "translate.google.com"
     ],
     "gt-estonian": [
-      "https://translate.google.com/#auto/et/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=et&text={{{s}}}&op=translate",
       "Detect language to Estonian",
       "translate.google.com"
     ],
     "gtestonian": [
-      "https://translate.google.com/#auto/et/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=et&text={{{s}}}&op=translate",
       "Detect language to Estonian",
       "translate.google.com"
     ],
     "gtet": [
-      "https://translate.google.com/#auto/et/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=et&text={{{s}}}&op=translate",
       "Detect language to Estonian",
       "translate.google.com"
     ],
     "gteu": [
-      "https://translate.google.com/#auto/eu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=eu&text={{{s}}}&op=translate",
       "Detect language to Basque",
       "translate.google.com"
     ],
     "gtfa": [
-      "https://translate.google.com/#auto/fa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fa&text={{{s}}}&op=translate",
       "Detect language to Persian",
       "translate.google.com"
     ],
@@ -25016,87 +24966,87 @@
       "www.glocktalk.com"
     ],
     "gtfi": [
-      "https://translate.google.com/#auto/fi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fi&text={{{s}}}&op=translate",
       "Detect language to Finnish",
       "translate.google.com"
     ],
     "gt-filipino": [
-      "https://translate.google.com/#auto/tl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tl&text={{{s}}}&op=translate",
       "Detect language to Filipino",
       "translate.google.com"
     ],
     "gtfilipino": [
-      "https://translate.google.com/#auto/tl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tl&text={{{s}}}&op=translate",
       "Detect language to Filipino",
       "translate.google.com"
     ],
     "gt-finnish": [
-      "https://translate.google.com/#auto/fi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fi&text={{{s}}}&op=translate",
       "Detect language to Finnish",
       "translate.google.com"
     ],
     "gtfinnish": [
-      "https://translate.google.com/#auto/fi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fi&text={{{s}}}&op=translate",
       "Detect language to Finnish",
       "translate.google.com"
     ],
     "gtfr": [
-      "https://translate.google.com/#auto/fr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fr&text={{{s}}}&op=translate",
       "Detect language to French",
       "translate.google.com"
     ],
     "gt-french": [
-      "https://translate.google.com/#auto/fr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fr&text={{{s}}}&op=translate",
       "Detect language to French",
       "translate.google.com"
     ],
     "gtfrench": [
-      "https://translate.google.com/#auto/fr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fr&text={{{s}}}&op=translate",
       "Detect language to French",
       "translate.google.com"
     ],
     "gtga": [
-      "https://translate.google.com/#auto/ga/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ga&text={{{s}}}&op=translate",
       "Detect language to Irish",
       "translate.google.com"
     ],
     "gt-galician": [
-      "https://translate.google.com/#auto/gl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gl&text={{{s}}}&op=translate",
       "Detect language to Galician",
       "translate.google.com"
     ],
     "gtgalician": [
-      "https://translate.google.com/#auto/gl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gl&text={{{s}}}&op=translate",
       "Detect language to Galician",
       "translate.google.com"
     ],
     "gt-georgian": [
-      "https://translate.google.com/#auto/ka/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ka&text={{{s}}}&op=translate",
       "Detect language to Georgian",
       "translate.google.com"
     ],
     "gtgeorgian": [
-      "https://translate.google.com/#auto/ka/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ka&text={{{s}}}&op=translate",
       "Detect language to Georgian",
       "translate.google.com"
     ],
     "gt-german": [
-      "https://translate.google.com/#auto/de/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=de&text={{{s}}}&op=translate",
       "Detect language to German",
       "translate.google.com"
     ],
     "gtgerman": [
-      "https://translate.google.com/#auto/de/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=de&text={{{s}}}&op=translate",
       "Detect language to German",
       "translate.google.com"
     ],
     "gtgl": [
-      "https://translate.google.com/#auto/gl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gl&text={{{s}}}&op=translate",
       "Detect language to Galician",
       "translate.google.com"
     ],
     "gt": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Google Translate",
       "translate.google.com"
     ],
@@ -25106,57 +25056,57 @@
       "translate.google.com"
     ],
     "gt-greek": [
-      "https://translate.google.com/#auto/el/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=el&text={{{s}}}&op=translate",
       "Detect language to Greek",
       "translate.google.com"
     ],
     "gtgreek": [
-      "https://translate.google.com/#auto/el/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=el&text={{{s}}}&op=translate",
       "Detect language to Greek",
       "translate.google.com"
     ],
     "gtgu": [
-      "https://translate.google.com/#auto/gu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gu&text={{{s}}}&op=translate",
       "Detect language to Gujarati",
       "translate.google.com"
     ],
     "gt-gujarati": [
-      "https://translate.google.com/#auto/gu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gu&text={{{s}}}&op=translate",
       "Detect language to Gujarati",
       "translate.google.com"
     ],
     "gtgujarati": [
-      "https://translate.google.com/#auto/gu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=gu&text={{{s}}}&op=translate",
       "Detect language to Gujarati",
       "translate.google.com"
     ],
     "gtha": [
-      "https://translate.google.com/#auto/ha/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ha&text={{{s}}}&op=translate",
       "Detect language to Hausa",
       "translate.google.com"
     ],
     "gthaitiancreole": [
-      "https://translate.google.com/#auto/ht/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ht&text={{{s}}}&op=translate",
       "Detect language to Haitian Creole",
       "translate.google.com"
     ],
     "gt-hausa": [
-      "https://translate.google.com/#auto/ha/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ha&text={{{s}}}&op=translate",
       "Detect language to Hausa",
       "translate.google.com"
     ],
     "gthausa": [
-      "https://translate.google.com/#auto/ha/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ha&text={{{s}}}&op=translate",
       "Detect language to Hausa",
       "translate.google.com"
     ],
     "gt-hebrew": [
-      "https://translate.google.com/#auto/iw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=iw&text={{{s}}}&op=translate",
       "Detect language to Hebrew",
       "translate.google.com"
     ],
     "gthebrew": [
-      "https://translate.google.com/#auto/iw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=iw&text={{{s}}}&op=translate",
       "Detect language to Hebrew",
       "translate.google.com"
     ],
@@ -25166,102 +25116,102 @@
       "www.google.co.th"
     ],
     "gthi": [
-      "https://translate.google.com/#auto/hi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hi&text={{{s}}}&op=translate",
       "Detect language to Hindi",
       "translate.google.com"
     ],
     "gt-hindi": [
-      "https://translate.google.com/#auto/hi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hi&text={{{s}}}&op=translate",
       "Detect language to Hindi",
       "translate.google.com"
     ],
     "gthindi": [
-      "https://translate.google.com/#auto/hi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hi&text={{{s}}}&op=translate",
       "Detect language to Hindi",
       "translate.google.com"
     ],
     "gthmn": [
-      "https://translate.google.com/#auto/hmn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hmn&text={{{s}}}&op=translate",
       "Detect language to Hmong",
       "translate.google.com"
     ],
     "gt-hmong": [
-      "https://translate.google.com/#auto/hmn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hmn&text={{{s}}}&op=translate",
       "Detect language to Hmong",
       "translate.google.com"
     ],
     "gthmong": [
-      "https://translate.google.com/#auto/hmn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hmn&text={{{s}}}&op=translate",
       "Detect language to Hmong",
       "translate.google.com"
     ],
     "gthr": [
-      "https://translate.google.com/#auto/hr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hr&text={{{s}}}&op=translate",
       "Detect language to Croatian",
       "translate.google.com"
     ],
     "gtht": [
-      "https://translate.google.com/#auto/ht/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ht&text={{{s}}}&op=translate",
       "Detect language to Haitian Creole",
       "translate.google.com"
     ],
     "gthu": [
-      "https://translate.google.com/#auto/hu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hu&text={{{s}}}&op=translate",
       "Detect language to Hungarian",
       "translate.google.com"
     ],
     "gt-hungarian": [
-      "https://translate.google.com/#auto/hu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hu&text={{{s}}}&op=translate",
       "Detect language to Hungarian",
       "translate.google.com"
     ],
     "gthungarian": [
-      "https://translate.google.com/#auto/hu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hu&text={{{s}}}&op=translate",
       "Detect language to Hungarian",
       "translate.google.com"
     ],
     "gthy": [
-      "https://translate.google.com/#auto/hy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=hy&text={{{s}}}&op=translate",
       "Detect language to Armenian",
       "translate.google.com"
     ],
     "gt-icelandic": [
-      "https://translate.google.com/#auto/is/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=is&text={{{s}}}&op=translate",
       "Detect language to Icelandic",
       "translate.google.com"
     ],
     "gticelandic": [
-      "https://translate.google.com/#auto/is/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=is&text={{{s}}}&op=translate",
       "Detect language to Icelandic",
       "translate.google.com"
     ],
     "gtid": [
-      "https://translate.google.com/#auto/id/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=id&text={{{s}}}&op=translate",
       "Detect language to Indonesian",
       "translate.google.com"
     ],
     "gt-igbo": [
-      "https://translate.google.com/#auto/ig/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ig&text={{{s}}}&op=translate",
       "Detect language to Igbo",
       "translate.google.com"
     ],
     "gtigbo": [
-      "https://translate.google.com/#auto/ig/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ig&text={{{s}}}&op=translate",
       "Detect language to Igbo",
       "translate.google.com"
     ],
     "gtig": [
-      "https://translate.google.com/#auto/ig/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ig&text={{{s}}}&op=translate",
       "Detect language to Igbo",
       "translate.google.com"
     ],
     "gt-indonesian": [
-      "https://translate.google.com/#auto/id/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=id&text={{{s}}}&op=translate",
       "Detect language to Indonesian",
       "translate.google.com"
     ],
     "gtindonesian": [
-      "https://translate.google.com/#auto/id/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=id&text={{{s}}}&op=translate",
       "Detect language to Indonesian",
       "translate.google.com"
     ],
@@ -25271,32 +25221,32 @@
       "www.gepir.de"
     ],
     "gt-irish": [
-      "https://translate.google.com/#auto/ga/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ga&text={{{s}}}&op=translate",
       "Detect language to Irish",
       "translate.google.com"
     ],
     "gtirish": [
-      "https://translate.google.com/#auto/ga/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ga&text={{{s}}}&op=translate",
       "Detect language to Irish",
       "translate.google.com"
     ],
     "gtis": [
-      "https://translate.google.com/#auto/is/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=is&text={{{s}}}&op=translate",
       "Detect language to Icelandic",
       "translate.google.com"
     ],
     "gt-italian": [
-      "https://translate.google.com/#auto/it/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=it&text={{{s}}}&op=translate",
       "Detect language to Italian",
       "translate.google.com"
     ],
     "gtitalian": [
-      "https://translate.google.com/#auto/it/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=it&text={{{s}}}&op=translate",
       "Detect language to Italian",
       "translate.google.com"
     ],
     "gtit": [
-      "https://translate.google.com/#auto/it/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=it&text={{{s}}}&op=translate",
       "Detect language to Italian",
       "translate.google.com"
     ],
@@ -25306,117 +25256,117 @@
       "translate.google.com"
     ],
     "gtiw": [
-      "https://translate.google.com/#auto/iw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=iw&text={{{s}}}&op=translate",
       "Detect language to Hebrew",
       "translate.google.com"
     ],
     "gtja": [
-      "https://translate.google.com/#auto/ja/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ja&text={{{s}}}&op=translate",
       "Detect language to Japanese",
       "translate.google.com"
     ],
     "gt-japanese": [
-      "https://translate.google.com/#auto/ja/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ja&text={{{s}}}&op=translate",
       "Detect language to Japanese",
       "translate.google.com"
     ],
     "gtjapanese": [
-      "https://translate.google.com/#auto/ja/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ja&text={{{s}}}&op=translate",
       "Detect language to Japanese",
       "translate.google.com"
     ],
     "gt-javanese": [
-      "https://translate.google.com/#auto/jw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=jw&text={{{s}}}&op=translate",
       "Detect language to Javanese",
       "translate.google.com"
     ],
     "gtjavanese": [
-      "https://translate.google.com/#auto/jw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=jw&text={{{s}}}&op=translate",
       "Detect language to Javanese",
       "translate.google.com"
     ],
     "gtjp": [
-      "https://translate.google.com/#auto/ja/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ja&text={{{s}}}&op=translate",
       "Google Translate to Japanese",
       "translate.google.com"
     ],
     "gtjw": [
-      "https://translate.google.com/#auto/jw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=jw&text={{{s}}}&op=translate",
       "Detect language to Javanese",
       "translate.google.com"
     ],
     "gtka": [
-      "https://translate.google.com/#auto/ka/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ka&text={{{s}}}&op=translate",
       "Detect language to Georgian",
       "translate.google.com"
     ],
     "gt-kannada": [
-      "https://translate.google.com/#auto/kn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kn&text={{{s}}}&op=translate",
       "Detect language to Kannada",
       "translate.google.com"
     ],
     "gtkannada": [
-      "https://translate.google.com/#auto/kn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kn&text={{{s}}}&op=translate",
       "Detect language to Kannada",
       "translate.google.com"
     ],
     "gt-kazakh": [
-      "https://translate.google.com/#auto/kk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kk&text={{{s}}}&op=translate",
       "Detect language to Kazakh",
       "translate.google.com"
     ],
     "gtkazakh": [
-      "https://translate.google.com/#auto/kk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kk&text={{{s}}}&op=translate",
       "Detect language to Kazakh",
       "translate.google.com"
     ],
     "gt-khmer": [
-      "https://translate.google.com/#auto/km/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=km&text={{{s}}}&op=translate",
       "Detect language to Khmer",
       "translate.google.com"
     ],
     "gtkhmer": [
-      "https://translate.google.com/#auto/km/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=km&text={{{s}}}&op=translate",
       "Detect language to Khmer",
       "translate.google.com"
     ],
     "gtkk": [
-      "https://translate.google.com/#auto/kk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kk&text={{{s}}}&op=translate",
       "Detect language to Kazakh",
       "translate.google.com"
     ],
     "gtkm": [
-      "https://translate.google.com/#auto/km/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=km&text={{{s}}}&op=translate",
       "Detect language to Khmer",
       "translate.google.com"
     ],
     "gtkn": [
-      "https://translate.google.com/#auto/kn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=kn&text={{{s}}}&op=translate",
       "Detect language to Kannada",
       "translate.google.com"
     ],
     "gtko": [
-      "https://translate.google.com/#auto/ko/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ko&text={{{s}}}&op=translate",
       "Detect language to Korean",
       "translate.google.com"
     ],
     "gt-korean": [
-      "https://translate.google.com/#auto/ko/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ko&text={{{s}}}&op=translate",
       "Detect language to Korean",
       "translate.google.com"
     ],
     "gtkorean": [
-      "https://translate.google.com/#auto/ko/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ko&text={{{s}}}&op=translate",
       "Detect language to Korean",
       "translate.google.com"
     ],
     "gtkr": [
-      "https://translate.google.com/#auto/ko/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ko&text={{{s}}}&op=translate",
       "Google Translate to Korean",
       "translate.google.com"
     ],
     "gtla": [
-      "https://translate.google.com/#auto/la/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=la&text={{{s}}}&op=translate",
       "Detect language to Latin",
       "translate.google.com"
     ],
@@ -25426,32 +25376,32 @@
       "translate.google.com"
     ],
     "gt-lao": [
-      "https://translate.google.com/#auto/lo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lo&text={{{s}}}&op=translate",
       "Detect language to Lao",
       "translate.google.com"
     ],
     "gtlao": [
-      "https://translate.google.com/#auto/lo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lo&text={{{s}}}&op=translate",
       "Detect language to Lao",
       "translate.google.com"
     ],
     "gt-latin": [
-      "https://translate.google.com/#auto/la/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=la&text={{{s}}}&op=translate",
       "Detect language to Latin",
       "translate.google.com"
     ],
     "gtlatin": [
-      "https://translate.google.com/#auto/la/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=la&text={{{s}}}&op=translate",
       "Detect language to Latin",
       "translate.google.com"
     ],
     "gt-latvian": [
-      "https://translate.google.com/#auto/lv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lv&text={{{s}}}&op=translate",
       "Detect language to Latvian",
       "translate.google.com"
     ],
     "gtlatvian": [
-      "https://translate.google.com/#auto/lv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lv&text={{{s}}}&op=translate",
       "Detect language to Latvian",
       "translate.google.com"
     ],
@@ -25461,97 +25411,97 @@
       "gatech-primo.hosted.exlibrisgroup.com"
     ],
     "gt-lithuanian": [
-      "https://translate.google.com/#auto/lt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lt&text={{{s}}}&op=translate",
       "Detect language to Lithuanian",
       "translate.google.com"
     ],
     "gtlithuanian": [
-      "https://translate.google.com/#auto/lt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lt&text={{{s}}}&op=translate",
       "Detect language to Lithuanian",
       "translate.google.com"
     ],
     "gtlt": [
-      "https://translate.google.com/#auto/lt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lt&text={{{s}}}&op=translate",
       "Detect language to Lithuanian",
       "translate.google.com"
     ],
     "gtlv": [
-      "https://translate.google.com/#auto/lv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=lv&text={{{s}}}&op=translate",
       "Detect language to Latvian",
       "translate.google.com"
     ],
     "gt-macedonian": [
-      "https://translate.google.com/#auto/mk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mk&text={{{s}}}&op=translate",
       "Detect language to Macedonian",
       "translate.google.com"
     ],
     "gtmacedonian": [
-      "https://translate.google.com/#auto/mk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mk&text={{{s}}}&op=translate",
       "Detect language to Macedonian",
       "translate.google.com"
     ],
     "gt-malagasy": [
-      "https://translate.google.com/#auto/mg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mg&text={{{s}}}&op=translate",
       "Detect language to Malagasy",
       "translate.google.com"
     ],
     "gtmalagasy": [
-      "https://translate.google.com/#auto/mg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mg&text={{{s}}}&op=translate",
       "Detect language to Malagasy",
       "translate.google.com"
     ],
     "gt-malayalam": [
-      "https://translate.google.com/#auto/ml/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ml&text={{{s}}}&op=translate",
       "Detect language to Malayalam",
       "translate.google.com"
     ],
     "gtmalayalam": [
-      "https://translate.google.com/#auto/ml/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ml&text={{{s}}}&op=translate",
       "Detect language to Malayalam",
       "translate.google.com"
     ],
     "gt-malay": [
-      "https://translate.google.com/#auto/ms/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ms&text={{{s}}}&op=translate",
       "Detect language to Malay",
       "translate.google.com"
     ],
     "gtmalay": [
-      "https://translate.google.com/#auto/ms/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ms&text={{{s}}}&op=translate",
       "Detect language to Malay",
       "translate.google.com"
     ],
     "gt-maltese": [
-      "https://translate.google.com/#auto/mt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mt&text={{{s}}}&op=translate",
       "Detect language to Maltese",
       "translate.google.com"
     ],
     "gtmaltese": [
-      "https://translate.google.com/#auto/mt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mt&text={{{s}}}&op=translate",
       "Detect language to Maltese",
       "translate.google.com"
     ],
     "gt-maori": [
-      "https://translate.google.com/#auto/mi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mi&text={{{s}}}&op=translate",
       "Detect language to Maori",
       "translate.google.com"
     ],
     "gtmaori": [
-      "https://translate.google.com/#auto/mi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mi&text={{{s}}}&op=translate",
       "Detect language to Maori",
       "translate.google.com"
     ],
     "gt-marathi": [
-      "https://translate.google.com/#auto/mr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mr&text={{{s}}}&op=translate",
       "Detect language to Marathi",
       "translate.google.com"
     ],
     "gtmarathi": [
-      "https://translate.google.com/#auto/mr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mr&text={{{s}}}&op=translate",
       "Detect language to Marathi",
       "translate.google.com"
     ],
     "gtmg": [
-      "https://translate.google.com/#auto/mg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mg&text={{{s}}}&op=translate",
       "Detect language to Malagasy",
       "translate.google.com"
     ],
@@ -25561,62 +25511,62 @@
       "fr.gta5-mods.com"
     ],
     "gtmi": [
-      "https://translate.google.com/#auto/mi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mi&text={{{s}}}&op=translate",
       "Detect language to Maori",
       "translate.google.com"
     ],
     "gtmk": [
-      "https://translate.google.com/#auto/mk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mk&text={{{s}}}&op=translate",
       "Detect language to Macedonian",
       "translate.google.com"
     ],
     "gtml": [
-      "https://translate.google.com/#auto/ml/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ml&text={{{s}}}&op=translate",
       "Detect language to Malayalam",
       "translate.google.com"
     ],
     "gtmn": [
-      "https://translate.google.com/#auto/mn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mn&text={{{s}}}&op=translate",
       "Detect language to Mongolian",
       "translate.google.com"
     ],
     "gt-mongolian": [
-      "https://translate.google.com/#auto/mn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mn&text={{{s}}}&op=translate",
       "Detect language to Mongolian",
       "translate.google.com"
     ],
     "gtmongolian": [
-      "https://translate.google.com/#auto/mn/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mn&text={{{s}}}&op=translate",
       "Detect language to Mongolian",
       "translate.google.com"
     ],
     "gtmr": [
-      "https://translate.google.com/#auto/mr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mr&text={{{s}}}&op=translate",
       "Detect language to Marathi",
       "translate.google.com"
     ],
     "gtms": [
-      "https://translate.google.com/#auto/ms/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ms&text={{{s}}}&op=translate",
       "Detect language to Malay",
       "translate.google.com"
     ],
     "gtmt": [
-      "https://translate.google.com/#auto/mt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=mt&text={{{s}}}&op=translate",
       "Detect language to Maltese",
       "translate.google.com"
     ],
     "gt-myanmar": [
-      "https://translate.google.com/#auto/my/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=my&text={{{s}}}&op=translate",
       "Detect language to Myanmar (Burmese)",
       "translate.google.com"
     ],
     "gtmyanmar": [
-      "https://translate.google.com/#auto/my/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=my&text={{{s}}}&op=translate",
       "Detect language to Myanmar (Burmese)",
       "translate.google.com"
     ],
     "gtmy": [
-      "https://translate.google.com/#auto/my/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=my&text={{{s}}}&op=translate",
       "Detect language to Myanmar (Burmese)",
       "translate.google.com"
     ],
@@ -25626,17 +25576,17 @@
       "geektimes.ru"
     ],
     "gtne": [
-      "https://translate.google.com/#auto/ne/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ne&text={{{s}}}&op=translate",
       "Detect language to Nepali",
       "translate.google.com"
     ],
     "gt-nepali": [
-      "https://translate.google.com/#auto/ne/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ne&text={{{s}}}&op=translate",
       "Detect language to Nepali",
       "translate.google.com"
     ],
     "gtnepali": [
-      "https://translate.google.com/#auto/ne/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ne&text={{{s}}}&op=translate",
       "Detect language to Nepali",
       "translate.google.com"
     ],
@@ -25646,7 +25596,7 @@
       "www.google.tn"
     ],
     "gtnl": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Detect language to Dutch",
       "translate.google.com"
     ],
@@ -25656,87 +25606,87 @@
       "translate.google.com"
     ],
     "gtno": [
-      "https://translate.google.com/#auto/no/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=no&text={{{s}}}&op=translate",
       "Detect language to Norwegian",
       "translate.google.com"
     ],
     "gt-norwegian": [
-      "https://translate.google.com/#auto/no/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=no&text={{{s}}}&op=translate",
       "Detect language to Norwegian",
       "translate.google.com"
     ],
     "gtnorwegian": [
-      "https://translate.google.com/#auto/no/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=no&text={{{s}}}&op=translate",
       "Detect language to Norwegian",
       "translate.google.com"
     ],
     "gtny": [
-      "https://translate.google.com/#auto/ny/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ny&text={{{s}}}&op=translate",
       "Detect language to Chichewa",
       "translate.google.com"
     ],
     "gtpa": [
-      "https://translate.google.com/#auto/pa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pa&text={{{s}}}&op=translate",
       "Detect language to Punjabi",
       "translate.google.com"
     ],
     "gt-persian": [
-      "https://translate.google.com/#auto/fa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fa&text={{{s}}}&op=translate",
       "Detect language to Persian",
       "translate.google.com"
     ],
     "gtpersian": [
-      "https://translate.google.com/#auto/fa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fa&text={{{s}}}&op=translate",
       "Detect language to Persian",
       "translate.google.com"
     ],
     "gtpl": [
-      "https://translate.google.com/#auto/pl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pl&text={{{s}}}&op=translate",
       "Detect language to Polish",
       "translate.google.com"
     ],
     "gt-polish": [
-      "https://translate.google.com/#auto/pl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pl&text={{{s}}}&op=translate",
       "Detect language to Polish",
       "translate.google.com"
     ],
     "gtpolish": [
-      "https://translate.google.com/#auto/pl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pl&text={{{s}}}&op=translate",
       "Detect language to Polish",
       "translate.google.com"
     ],
     "gt-portuguese": [
-      "https://translate.google.com/#auto/pt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pt&text={{{s}}}&op=translate",
       "Detect language to Portuguese",
       "translate.google.com"
     ],
     "gtportuguese": [
-      "https://translate.google.com/#auto/pt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pt&text={{{s}}}&op=translate",
       "Detect language to Portuguese",
       "translate.google.com"
     ],
     "gtpt": [
-      "https://translate.google.com/#auto/pt/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pt&text={{{s}}}&op=translate",
       "Detect language to Portuguese",
       "translate.google.com"
     ],
     "gt-punjabi": [
-      "https://translate.google.com/#auto/pa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pa&text={{{s}}}&op=translate",
       "Detect language to Punjabi",
       "translate.google.com"
     ],
     "gtpunjabi": [
-      "https://translate.google.com/#auto/pa/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=pa&text={{{s}}}&op=translate",
       "Detect language to Punjabi",
       "translate.google.com"
     ],
     "gtrad": [
-      "https://translate.google.com/#auto/fr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=fr&text={{{s}}}&op=translate",
       "Google Translate",
       "translate.google.com"
     ],
     "gtranslate": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Google Translate",
       "translate.google.com"
     ],
@@ -25751,122 +25701,122 @@
       "www.google.com.tr"
     ],
     "gtro": [
-      "https://translate.google.com/#auto/ro/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ro&text={{{s}}}&op=translate",
       "Detect language to Romanian",
       "translate.google.com"
     ],
     "gt-romanian": [
-      "https://translate.google.com/#auto/ro/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ro&text={{{s}}}&op=translate",
       "Detect language to Romanian",
       "translate.google.com"
     ],
     "gtromanian": [
-      "https://translate.google.com/#auto/ro/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ro&text={{{s}}}&op=translate",
       "Detect language to Romanian",
       "translate.google.com"
     ],
     "gtru": [
-      "https://translate.google.com/#auto/ru/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ru&text={{{s}}}&op=translate",
       "Detect language to Russian",
       "translate.google.com"
     ],
     "gt-russian": [
-      "https://translate.google.com/#auto/ru/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ru&text={{{s}}}&op=translate",
       "Detect language to Russian",
       "translate.google.com"
     ],
     "gtrussian": [
-      "https://translate.google.com/#auto/ru/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ru&text={{{s}}}&op=translate",
       "Detect language to Russian",
       "translate.google.com"
     ],
     "gt-serbian": [
-      "https://translate.google.com/#auto/sr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sr&text={{{s}}}&op=translate",
       "Detect language to Serbian",
       "translate.google.com"
     ],
     "gtserbian": [
-      "https://translate.google.com/#auto/sr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sr&text={{{s}}}&op=translate",
       "Detect language to Serbian",
       "translate.google.com"
     ],
     "gt-sesotho": [
-      "https://translate.google.com/#auto/st/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=st&text={{{s}}}&op=translate",
       "Detect language to Sesotho",
       "translate.google.com"
     ],
     "gtsesotho": [
-      "https://translate.google.com/#auto/st/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=st&text={{{s}}}&op=translate",
       "Detect language to Sesotho",
       "translate.google.com"
     ],
     "gtsi": [
-      "https://translate.google.com/#auto/si/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=si&text={{{s}}}&op=translate",
       "Detect language to Sinhala",
       "translate.google.com"
     ],
     "gt-sinhala": [
-      "https://translate.google.com/#auto/si/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=si&text={{{s}}}&op=translate",
       "Detect language to Sinhala",
       "translate.google.com"
     ],
     "gtsinhala": [
-      "https://translate.google.com/#auto/si/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=si&text={{{s}}}&op=translate",
       "Detect language to Sinhala",
       "translate.google.com"
     ],
     "gtsk": [
-      "https://translate.google.com/#auto/sk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sk&text={{{s}}}&op=translate",
       "Detect language to Slovak",
       "translate.google.com"
     ],
     "gtsl": [
-      "https://translate.google.com/#auto/sl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sl&text={{{s}}}&op=translate",
       "Detect language to Slovenian",
       "translate.google.com"
     ],
     "gt-slovak": [
-      "https://translate.google.com/#auto/sk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sk&text={{{s}}}&op=translate",
       "Detect language to Slovak",
       "translate.google.com"
     ],
     "gtslovak": [
-      "https://translate.google.com/#auto/sk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sk&text={{{s}}}&op=translate",
       "Detect language to Slovak",
       "translate.google.com"
     ],
     "gt-slovenian": [
-      "https://translate.google.com/#auto/sl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sl&text={{{s}}}&op=translate",
       "Detect language to Slovenian",
       "translate.google.com"
     ],
     "gtslovenian": [
-      "https://translate.google.com/#auto/sl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sl&text={{{s}}}&op=translate",
       "Detect language to Slovenian",
       "translate.google.com"
     ],
     "gtso": [
-      "https://translate.google.com/#auto/so/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=so&text={{{s}}}&op=translate",
       "Detect language to Somali",
       "translate.google.com"
     ],
     "gt-somali": [
-      "https://translate.google.com/#auto/so/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=so&text={{{s}}}&op=translate",
       "Detect language to Somali",
       "translate.google.com"
     ],
     "gtsomali": [
-      "https://translate.google.com/#auto/so/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=so&text={{{s}}}&op=translate",
       "Detect language to Somali",
       "translate.google.com"
     ],
     "gt-spanish": [
-      "https://translate.google.com/#auto/es/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=es&text={{{s}}}&op=translate",
       "Detect language to Spanish",
       "translate.google.com"
     ],
     "gtspanish": [
-      "https://translate.google.com/#auto/es/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=es&text={{{s}}}&op=translate",
       "Detect language to Spanish",
       "translate.google.com"
     ],
@@ -25876,142 +25826,142 @@
       "translate.google.com"
     ],
     "gtsq": [
-      "https://translate.google.com/#auto/sq/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sq&text={{{s}}}&op=translate",
       "Detect language to Albanian",
       "translate.google.com"
     ],
     "gtsr": [
-      "https://translate.google.com/#auto/sr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sr&text={{{s}}}&op=translate",
       "Detect language to Serbian",
       "translate.google.com"
     ],
     "gtst": [
-      "https://translate.google.com/#auto/st/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=st&text={{{s}}}&op=translate",
       "Detect language to Sesotho",
       "translate.google.com"
     ],
     "gtsu": [
-      "https://translate.google.com/#auto/su/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=su&text={{{s}}}&op=translate",
       "Detect language to Sundanese",
       "translate.google.com"
     ],
     "gt-sundanese": [
-      "https://translate.google.com/#auto/su/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=su&text={{{s}}}&op=translate",
       "Detect language to Sundanese",
       "translate.google.com"
     ],
     "gtsundanese": [
-      "https://translate.google.com/#auto/su/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=su&text={{{s}}}&op=translate",
       "Detect language to Sundanese",
       "translate.google.com"
     ],
     "gtsv": [
-      "https://translate.google.com/#auto/sv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sv&text={{{s}}}&op=translate",
       "Detect language to Swedish",
       "translate.google.com"
     ],
     "gt-swahili": [
-      "https://translate.google.com/#auto/sw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sw&text={{{s}}}&op=translate",
       "Detect language to Swahili",
       "translate.google.com"
     ],
     "gtswahili": [
-      "https://translate.google.com/#auto/sw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sw&text={{{s}}}&op=translate",
       "Detect language to Swahili",
       "translate.google.com"
     ],
     "gtsw": [
-      "https://translate.google.com/#auto/sw/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sw&text={{{s}}}&op=translate",
       "Detect language to Swahili",
       "translate.google.com"
     ],
     "gt-swedish": [
-      "https://translate.google.com/#auto/sv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sv&text={{{s}}}&op=translate",
       "Detect language to Swedish",
       "translate.google.com"
     ],
     "gtswedish": [
-      "https://translate.google.com/#auto/sv/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=sv&text={{{s}}}&op=translate",
       "Detect language to Swedish",
       "translate.google.com"
     ],
     "gtta": [
-      "https://translate.google.com/#auto/ta/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ta&text={{{s}}}&op=translate",
       "Detect language to Tamil",
       "translate.google.com"
     ],
     "gt-tajik": [
-      "https://translate.google.com/#auto/tg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tg&text={{{s}}}&op=translate",
       "Detect language to Tajik",
       "translate.google.com"
     ],
     "gttajik": [
-      "https://translate.google.com/#auto/tg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tg&text={{{s}}}&op=translate",
       "Detect language to Tajik",
       "translate.google.com"
     ],
     "gt-tamil": [
-      "https://translate.google.com/#auto/ta/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ta&text={{{s}}}&op=translate",
       "Detect language to Tamil",
       "translate.google.com"
     ],
     "gttamil": [
-      "https://translate.google.com/#auto/ta/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ta&text={{{s}}}&op=translate",
       "Detect language to Tamil",
       "translate.google.com"
     ],
     "gtte": [
-      "https://translate.google.com/#auto/te/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=te&text={{{s}}}&op=translate",
       "Detect language to Telugu",
       "translate.google.com"
     ],
     "gt-telugu": [
-      "https://translate.google.com/#auto/te/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=te&text={{{s}}}&op=translate",
       "Detect language to Telugu",
       "translate.google.com"
     ],
     "gttelugu": [
-      "https://translate.google.com/#auto/te/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=te&text={{{s}}}&op=translate",
       "Detect language to Telugu",
       "translate.google.com"
     ],
     "gttg": [
-      "https://translate.google.com/#auto/tg/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tg&text={{{s}}}&op=translate",
       "Detect language to Tajik",
       "translate.google.com"
     ],
     "gt-thai": [
-      "https://translate.google.com/#auto/th/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=th&text={{{s}}}&op=translate",
       "Detect language to Thai",
       "translate.google.com"
     ],
     "gtthai": [
-      "https://translate.google.com/#auto/th/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=th&text={{{s}}}&op=translate",
       "Detect language to Thai",
       "translate.google.com"
     ],
     "gtth": [
-      "https://translate.google.com/#auto/th/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=th&text={{{s}}}&op=translate",
       "Detect language to Thai",
       "translate.google.com"
     ],
     "gttl": [
-      "https://translate.google.com/#auto/tl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tl&text={{{s}}}&op=translate",
       "Detect language to Filipino",
       "translate.google.com"
     ],
     "gttr": [
-      "https://translate.google.com/#auto/tr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tr&text={{{s}}}&op=translate",
       "Detect language to Turkish",
       "translate.google.com"
     ],
     "gt-turkish": [
-      "https://translate.google.com/#auto/tr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tr&text={{{s}}}&op=translate",
       "Detect language to Turkish",
       "translate.google.com"
     ],
     "gtturkish": [
-      "https://translate.google.com/#auto/tr/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=tr&text={{{s}}}&op=translate",
       "Detect language to Turkish",
       "translate.google.com"
     ],
@@ -26021,32 +25971,32 @@
       "translate.google.com.tw"
     ],
     "gtuk": [
-      "https://translate.google.com/#auto/uk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uk&text={{{s}}}&op=translate",
       "Detect language to Ukrainian",
       "translate.google.com"
     ],
     "gt-ukrainian": [
-      "https://translate.google.com/#auto/uk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uk&text={{{s}}}&op=translate",
       "Detect language to Ukrainian",
       "translate.google.com"
     ],
     "gtukrainian": [
-      "https://translate.google.com/#auto/uk/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uk&text={{{s}}}&op=translate",
       "Detect language to Ukrainian",
       "translate.google.com"
     ],
     "gtur": [
-      "https://translate.google.com/#auto/ur/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ur&text={{{s}}}&op=translate",
       "Detect language to Urdu",
       "translate.google.com"
     ],
     "gt-urdu": [
-      "https://translate.google.com/#auto/ur/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ur&text={{{s}}}&op=translate",
       "Detect language to Urdu",
       "translate.google.com"
     ],
     "gturdu": [
-      "https://translate.google.com/#auto/ur/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=ur&text={{{s}}}&op=translate",
       "Detect language to Urdu",
       "translate.google.com"
     ],
@@ -26056,42 +26006,42 @@
       "translate.google.com"
     ],
     "gt-uzbek": [
-      "https://translate.google.com/#auto/uz/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uz&text={{{s}}}&op=translate",
       "Detect language to Uzbek",
       "translate.google.com"
     ],
     "gtuzbek": [
-      "https://translate.google.com/#auto/uz/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uz&text={{{s}}}&op=translate",
       "Detect language to Uzbek",
       "translate.google.com"
     ],
     "gtuz": [
-      "https://translate.google.com/#auto/uz/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=uz&text={{{s}}}&op=translate",
       "Detect language to Uzbek",
       "translate.google.com"
     ],
     "gtvi": [
-      "https://translate.google.com/#auto/vi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=vi&text={{{s}}}&op=translate",
       "Detect language to Vietnamese",
       "translate.google.com"
     ],
     "gt-vietnamese": [
-      "https://translate.google.com/#auto/vi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=vi&text={{{s}}}&op=translate",
       "Detect language to Vietnamese",
       "translate.google.com"
     ],
     "gtvietnamese": [
-      "https://translate.google.com/#auto/vi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=vi&text={{{s}}}&op=translate",
       "Detect language to Vietnamese",
       "translate.google.com"
     ],
     "gt-welsh": [
-      "https://translate.google.com/#auto/cy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cy&text={{{s}}}&op=translate",
       "Detect language to Welsh",
       "translate.google.com"
     ],
     "gtwelsh": [
-      "https://translate.google.com/#auto/cy/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=cy&text={{{s}}}&op=translate",
       "Detect language to Welsh",
       "translate.google.com"
     ],
@@ -26106,57 +26056,57 @@
       "growtopia.wikia.com"
     ],
     "gt-yiddish": [
-      "https://translate.google.com/#auto/yi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yi&text={{{s}}}&op=translate",
       "Detect language to Yiddish",
       "translate.google.com"
     ],
     "gtyiddish": [
-      "https://translate.google.com/#auto/yi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yi&text={{{s}}}&op=translate",
       "Detect language to Yiddish",
       "translate.google.com"
     ],
     "gtyi": [
-      "https://translate.google.com/#auto/yi/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yi&text={{{s}}}&op=translate",
       "Detect language to Yiddish",
       "translate.google.com"
     ],
     "gtyo": [
-      "https://translate.google.com/#auto/yo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yo&text={{{s}}}&op=translate",
       "Detect language to Yoruba",
       "translate.google.com"
     ],
     "gt-yoruba": [
-      "https://translate.google.com/#auto/yo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yo&text={{{s}}}&op=translate",
       "Detect language to Yoruba",
       "translate.google.com"
     ],
     "gtyoruba": [
-      "https://translate.google.com/#auto/yo/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=yo&text={{{s}}}&op=translate",
       "Detect language to Yoruba",
       "translate.google.com"
     ],
     "gtzh-cn": [
-      "https://translate.google.com/#auto/zh-CN/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zh-CN&text={{{s}}}&op=translate",
       "Detect language to Chinese",
       "translate.google.com"
     ],
     "gtzh-tw": [
-      "https://translate.google.com/#auto/zh-TW/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zh-TW&text={{{s}}}&op=translate",
       "Detect language to traditional Chinese",
       "translate.google.com"
     ],
     "gtzu": [
-      "https://translate.google.com/#auto/zu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zu&text={{{s}}}&op=translate",
       "Detect language to Zulu",
       "translate.google.com"
     ],
     "gt-zulu": [
-      "https://translate.google.com/#auto/zu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zu&text={{{s}}}&op=translate",
       "Detect language to Zulu",
       "translate.google.com"
     ],
     "gtzulu": [
-      "https://translate.google.com/#auto/zu/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=zu&text={{{s}}}&op=translate",
       "Detect language to Zulu",
       "translate.google.com"
     ],
@@ -26397,7 +26347,7 @@
       "www.google.com.vn"
     ],
     "gvoice": [
-      "https://www.google.com/voice#search/{{{s}}}",
+      "https://voice.google.com/u/0/search?from=[]&q=[\"{{{s}}}\"]",
       "Google Voice",
       "www.google.com"
     ],
@@ -28760,7 +28710,7 @@
       "jizdnirady.idnes.cz"
     ],
     "idownloadblog": [
-      "https://www.idownloadblog.com/search/?cx=partner-pub-2130162217902648%3Adgi3x3-xedb&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&siteurl=www.idownloadblog.com%2F&ref=www.google.com%2F&ss=1069j239311j6",
+      "https://www.idownloadblog.com/?s={{{s}}}",
       "iDownloadBlog",
       "www.idownloadblog.com"
     ],
@@ -32090,7 +32040,7 @@
       "www.kkbox.com"
     ],
     "kkbruce": [
-      "https://www.google.com/cse?cx=002209521788924011185:wzz9w-qvlhi&q={{{s}}}",
+      "https://cse.google.com/cse?cx=002209521788924011185:wzz9w-qvlhi&q={{{s}}}",
       "KingKong Bruce記事",
       "www.google.com"
     ],
@@ -33859,7 +33809,7 @@
       "www.lifesitenews.com"
     ],
     "lifeprint": [
-      "https://www.google.com/cse?cx=partner-pub-2513564923850231%3Anzof3qz9abm&ie=ISO-8859-1&q=time&sa=Search#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+      "https://cse.google.com/cse?cx=partner-pub-2513564923850231%3Anzof3qz9abm&ie=ISO-8859-1&q=time&sa=Search#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
       "Lifeprint",
       "www.google.com"
     ],
@@ -38314,13 +38264,8 @@
       "Mozillians",
       "mozillians.org"
     ],
-    "moz": [
-      "https://www.google.com/cse?cx=002443141534113389537%3Aysdmevkkknw&cof=FORID%3A0&q={{{s}}}",
-      "Mozilla",
-      "www.google.com"
-    ],
     "mozpb": [
-      "https://phonebook.mozilla.org/?search/{{{s}}}",
+      "https://people.mozilla.org/s?query={{{s}}}&who=all",
       "Mozilla Phonebook",
       "phonebook.mozilla.org"
     ],
@@ -39988,9 +39933,9 @@
       "man.netbsd.org"
     ],
     "netbsd": [
-      "https://www.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide&oq=guide&gs_l=partner.12...0.0.1.52071.0.0.0.0.0.0.0.0..0.0.gsnos%2Cn%3D13..0.0.0jj1..1ac.#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+      "https://cse.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide&oq=guide&gs_l=partner.12...0.0.1.52071.0.0.0.0.0.0.0.0..0.0.gsnos%2Cn%3D13..0.0.0jj1..1ac.#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
       "The NetBSD Project",
-      "www.google.com"
+      "netbsd.org"
     ],
     "netcore2api": [
       "https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-2.0&term={{{s}}}",
@@ -40147,11 +40092,6 @@
       "News365 Club",
       "news365.club"
     ],
-    "newsarchive": [
-      "https://www.google.com/#q={{{s}}}&hl=en&tbm=nws&prmd=imvnsfd&source=lnt&tbs=ar:1&sa=X&ei=UJrnT8LwO8Sf6QGHmIjhDg&ved=0CCcQpwUoBQ&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=3c6a142c5aa1edc2&biw=1366&bih=706",
-      "Google News Archive",
-      "www.google.com"
-    ],
     "newscomau": [
       "https://search.news.com.au/search?us=ndmnews&as=NEWS&q={{{s}}}",
       "News.com.au",
@@ -40191,11 +40131,6 @@
       "https://www.delawareonline.com/search/{{{s}}}/",
       "The News Journal",
       "www.delawareonline.com"
-    ],
-    "newsmax": [
-      "https://www.google.com/custom?domains=NewsMax.com&client=pub-2932230807573228&forid=1&ie=UTF8&oe=UTF8&safe=active&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A70%3BLW%3A297%3BL%3Ahttp%3A%2F%2Fwww.newsmax.com%2Fimages%2Fhome%2Fa-logo.gif%3BS%3Ahttp%3A%2F%2Fwww.newsmax.com%2F%3BLP%3A1%3BFORID%3A1%3B&sitesearch=Newsmax.com&q={{{s}}}",
-      "NewsMax.com",
-      "www.google.com"
     ],
     "newsmx": [
       "https://duckduckgo.com/?q={{{s}}}&iar=news&kl=mx-es&ia=news",
@@ -49693,9 +49628,9 @@
       "www.rubylane.com"
     ],
     "ruby": [
-      "https://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search",
-      "Ruby-lang.org",
-      "www.google.com"
+      "https://cse.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search",
+      "ruby-lang.org",
+      "ruby-lang.org"
     ],
     "rubytoolbox": [
       "https://www.ruby-toolbox.com/search?utf8=✓&q={{{s}}}",
@@ -50322,7 +50257,12 @@
       "www.saturn.de"
     ],
     "saucenao": [
-      "https://saucenao.com/search.php?db=999&url={{{s}}}",
+      "https://saucenao.com/search.php?url={{{s}}}",
+      "SauceNAO",
+      "saucenao.com"
+    ],
+    "sauce": [
+      "https://saucenao.com/search.php?url={{{s}}}",
       "SauceNAO",
       "saucenao.com"
     ],
@@ -50644,7 +50584,7 @@
       "scienceblog.com"
     ],
     "scienceblogs": [
-      "https://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q={{{s}}}",
+      "https://cse.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q={{{s}}}",
       "Science Blogs",
       "www.google.com"
     ],
@@ -56604,7 +56544,7 @@
       "www.thegreat.uk"
     ],
     "thehackernews": [
-      "https://www.google.com/cse?q=test&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+      "https://cse.google.com/cse?q=test&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
       "The Hacker News",
       "www.google.com"
     ],
@@ -57254,7 +57194,7 @@
       "wiki.teamliquid.net"
     ],
     "tldp": [
-      "https://www.google.com/cse?cx=017644269519104757279%3Agm62gtzaoky&q={{{s}}}",
+      "https://cse.google.com/cse?cx=017644269519104757279%3Agm62gtzaoky&q={{{s}}}",
       "The Linux Documentation Project",
       "www.google.com"
     ],
@@ -57904,17 +57844,17 @@
       "translate.google.com"
     ],
     "translatede": [
-      "https://translate.google.com/#auto/de/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=de&text={{{s}}}&op=translate",
       "Google Translate 2DE",
       "translate.google.com"
     ],
     "translate": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Google Translate",
       "translate.google.com"
     ],
     "translatenl": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Google Translate Dutch",
       "translate.google.com"
     ],
@@ -57924,7 +57864,7 @@
       "www.microsofttranslator.com"
     ],
     "transnl": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Google Translate Dutch",
       "translate.google.com"
     ],
@@ -58009,9 +57949,9 @@
       "www.trendmicro.com"
     ],
     "trends": [
-      "https://www.google.com/trends/explore#q={{{s}}}",
+      "https://trends.google.com/trends/explore?date=all&q={{{s}}}",
       "Google Trends",
-      "www.google.com"
+      "trends.google.com"
     ],
     "trendstop": [
       "https://trendstop.knack.be/nl/results.aspx?s1={{{s}}}",
@@ -58049,7 +57989,7 @@
       "www.transfermarkt.co.uk"
     ],
     "tr": [
-      "https://translate.google.com/#auto/en/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=en&text={{{s}}}&op=translate",
       "Google Translate",
       "translate.google.com"
     ],
@@ -58109,7 +58049,7 @@
       "theringlord.com"
     ],
     "trnl": [
-      "https://translate.google.com/#auto/nl/{{{s}}}",
+      "https://translate.google.com/?sl=auto&tl=nl&text={{{s}}}&op=translate",
       "Google Translate Dutch ",
       "translate.google.com"
     ],
@@ -60937,11 +60877,6 @@
       "Vim Scripts",
       "www.vim.org"
     ],
-    "vim": [
-      "https://www.google.com/cse?cx=partner-pub-3005259998294962%3Abvyni59kjr1&q={{{s}}}",
-      "Vim.org",
-      "www.google.com"
-    ],
     "vimw": [
       "https://vim.wikia.com/wiki/Special:Search?query={{{s}}}",
       "Vim Tips wiki",
@@ -61184,9 +61119,9 @@
       "www.vogue.com"
     ],
     "voice": [
-      "https://www.google.com/voice#search/{{{s}}}",
+      "https://voice.google.com/u/0/search?from=[]&q=[\"{{{s}}}\"]",
       "Google Voice",
-      "www.google.com"
+      "voice.google.com"
     ],
     "voicy": [
       "https://www.voicy.network/clips/search?search={{{s}}}",
@@ -61500,24 +61435,16 @@
       "W3Schools Tag Attributes",
       "www.w3schools.com"
     ],
-
-    "w3scn": [
-      "https://www.google.com/search?q={{{s}}}+site:w3school.com.cn",
-      "w3school中文",
-      "www.google.com"
-    ],
     "w3stag": [
       "https://www.w3schools.com/tags/tag_{{{s}}}.asp",
       "W3 Schools Tag",
       "www.w3schools.com"
     ],
-
     "w3v": [
       "https://validator.w3.org/nu/?doc={{{s}}}",
       "W3C Validator",
       "validator.w3.org"
     ],
-
     "w3w": [
       "https://map.what3words.com/{{{s}}}",
       "https://what3words.com/",
@@ -66992,5 +66919,10 @@
       "https://quickgpt.glitch.me?q={{{s}}}",
       "QuickGPT",
       "quickgpt.glitch.me"
+    ],
+    "lens": [
+      "https://lens.google.com/uploadbyurl?url={{{s}}}",
+      "Google Lens",
+      "lens.google.com"
     ]
   }
