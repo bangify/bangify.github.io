@@ -3,7 +3,6 @@ let bangs = null;
 const normalizeBang = (bang) => bang.toLowerCase().normalize();
 const bangsLoaded = fetch("/bangify/bangs.json").then(async (e) => {
   bangs = await e.json();
-  for (let bang of bangs) bang.t = normalizeBang(bang.t);
 });
 if (
   typeof ServiceWorkerGlobalScope !== "undefined" &&
