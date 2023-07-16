@@ -22870,9 +22870,9 @@
     "www.google.co.uk"
   ],
   "giurl": [
-    "https://www.google.com/searchbyimage?image_url={{{s}}}",
-    "Google Image",
-    "www.google.com"
+    "https://lens.google.com/uploadbyurl?url={{{s}}}",
+    "Google Lens",
+    "lens.google.com"
   ],
   "give": [
     "https://www.givero.com/search?q={{{s}}}",
@@ -24250,9 +24250,9 @@
     "www.goodreads.com"
   ],
   "gri": [
-    "https://images.google.com/searchbyimage?image_url={{{s}}} ",
-    "Google Reverse Image Search",
-    "images.google.com"
+    "https://lens.google.com/uploadbyurl?url={{{s}}}",
+    "Google Lens",
+    "lens.google.com"
   ],
   "grillo": [
     "https://www.beppegrillo.it/google_cse.html?q={{{s}}}&x=-1208&y=-9",
@@ -30160,9 +30160,9 @@
     "iupac.org"
   ],
   "iurl": [
-    "https://google.com/searchbyimage?image_url={{{s}}}",
-    "Google",
-    "google.com"
+    "https://lens.google.com/uploadbyurl?url={{{s}}}",
+    "Google Lens",
+    "lens.google.com"
   ],
   "iv": [
     "https://www.italian-verbs.com/italian-verbs/conjugation.php?verbo={{{s}}}",
@@ -48490,9 +48490,9 @@
     "www.researchgate.net"
   ],
   "rgi": [
-    "https://images.google.com/searchbyimage?image_url={{{s}}}",
-    "Google Reverse Image Search",
-    "images.google.com"
+    "https://lens.google.com/uploadbyurl?url={{{s}}}",
+    "Google Lens",
+    "lens.google.com"
   ],
   "rgo": [
     "https://www.reddit.com/r/GlobalOffensive/search/?q={{{s}}}&restrict_sr=1",
@@ -50220,9 +50220,9 @@
     "bibleforums.org"
   ],
   "sbi": [
-    "https://www.google.com/searchbyimage?image_url={{{s}}}",
-    "Google Search by Image",
-    "www.google.com"
+    "https://lens.google.com/uploadbyurl?url={{{s}}}",
+    "Google Lens",
+    "lens.google.com"
   ],
   "sbit": [
     "https://spendabit.co/go?q={{{s}}}",
