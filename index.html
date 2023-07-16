@@ -100,10 +100,9 @@
         defaultChooser.disabled = true;
         const normalizeBang = (bang) => bang.toLowerCase().normalize();
         const bangs = await (await fetch("./bangs.json")).json();
-        for (let bang of bangs) bang.t = normalizeBang(bang.t);
-        bangList.append(...bangs.map((e) => new Option("!" + e.t)));
+        bangList.append(...Object.entries(bangs).map(([k,v]) => new Option("!" + normalizeBang(k))))
         defaultChooser.pattern =
-          "!(" + bangs.map((e) => escapeRegExp(e.t)).join("|") + ")";
+          "!(" + Object.keys(bangs).map((e) => escapeRegExp(normalizeBang(e))).join("|") + ")";
         defaultChooser.value =
           "!" + ((await localforage.getItem("default")) || "ddg");
         defaultChooser.disabled = false;
