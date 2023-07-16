@@ -66750,6 +66750,11 @@
     "astronet.ge"
   ],
   "phind": [
+    "https://phind.com/agent?q={{{s}}}",
+    "Phind Agent",
+    "phind.com"
+  ],
+  "phindbasic": [
     "https://phind.com/search?q={{{s}}}",
     "Phind",
     "phind.com"
