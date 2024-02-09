@@ -66760,9 +66760,9 @@
     "phind.com"
   ],
   "gpt": [
-    "https://quickgpt.glitch.me?q={{{s}}}",
+    "https://quickgpt.easrng.workers.dev?q={{{s}}}",
     "QuickGPT",
-    "quickgpt.glitch.me"
+    "quickgpt.easrng.workers.dev"
   ],
   "lens": [
     "https://lens.google.com/uploadbyurl?url={{{s}}}",
